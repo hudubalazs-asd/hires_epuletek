@@ -5,6 +5,9 @@ body{background-color: #f7eddc;}
 	margin-top: 30px;
 }
 
+a{
+	font-weight: bold;
+}
 .kozep
 {
 	text-align: center;
@@ -13,14 +16,25 @@ body{background-color: #f7eddc;}
 .kepfelirat
 {
 	text-align: center;
+	font-style: italic;
 }
 
 .galeriakep
 {
 	margin: auto;
 	display: block;
+	height: 300px;
 }
  
 #tortenet{
 	font-weight: bold;
+}
+
+.keret {
+	border: 3px solid #7a5c3e;
+}
+
+.margo {
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
